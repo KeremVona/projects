@@ -1,0 +1,125 @@
+body {
+    background-color: #DCF2F1;
+    font-family: "PT Sans";
+}
+.pt-sans-regular {
+    font-family: "PT Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+  
+.pt-sans-bold {
+    font-family: "PT Sans", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+  
+.pt-sans-regular-italic {
+    font-family: "PT Sans", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+  
+.pt-sans-bold-italic {
+    font-family: "PT Sans", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
+
+h1 {
+    text-align: center;
+}
+
+.main {
+    background-color: #7FC7D9;
+    width: 50%;
+    margin: auto;
+    height: 500px;
+}
+
+.input {
+    text-align: center;
+    padding-top: 10px;
+}
+
+#button-add {
+    width: 100px;
+    height: 40px;
+    background-color: #DCF2F1;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+#input-main {
+    border: none;
+    width: 250px;
+    height: 40px;
+    padding-left: 10px;
+    border-radius: 20px;
+}
+
+.second {
+    background-color: #365486;
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    height: 400px;
+
+    
+}
+
+p {
+    color: #DCF2F1;
+}
+
+.todo {
+    display: inline;
+    margin-right: 10px;
+}
+
+.segment {
+
+    margin-bottom: 20px;
+    padding-top: 20px;
+}
+
+.button-edit {
+    width: 50px;
+    height: 40px;
+    background-color: #DCF2F1;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+.button-delete {
+    width: 50px;
+    height: 40px;
+    background-color: red;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+.button-state {
+    width: 50px;
+    height: 40px;
+    background-color: #DCF2F1;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.editShowAndHide {
+    background-color: white;
+    width: 400px;
+    height: 400px;
+    text-align: center;
+    margin-top: 100px;
+    display: none;
+}
+  
